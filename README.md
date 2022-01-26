@@ -13,5 +13,4 @@
 <img width="1512" alt="스크린샷 2022-01-26 오후 11 18 27" src="https://user-images.githubusercontent.com/83385561/151180019-895f0021-4013-4d0f-a914-3eed5e1ae21d.png">
 <img width="1512" alt="스크린샷 2022-01-26 오후 11 18 30" src="https://user-images.githubusercontent.com/83385561/151180031-7979f799-e266-487b-8c74-c97e7621710d.png">
 <img width="1512" alt="스크린샷 2022-01-26 오후 11 18 31" src="https://user-images.githubusercontent.com/83385561/151180045-07c30f4f-1a10-4d51-96e4-fca647a8a3af.png">
-![Uploading 스크린샷 2022-01-26 오후 11.19.52.png…]()
-
+<img width="1512" alt="스크린샷 2022-01-26 오후 11 19 52" src="https://user-images.githubusercontent.com/83385561/151180074-e9b3c4b6-382f-4175-af3d-e4dc058fa4bf.png">
